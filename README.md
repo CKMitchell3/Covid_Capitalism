@@ -10,8 +10,11 @@ Pandemic Crash Airlines Stocks: Total $25,000 BA: $12,500 DAL: $12,500
 Pandemic Crash Hospitality Stocks: Total $25,000 MGM: $12,500 WYNN: $12,500
 
 <dl>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Bluechips</dt>
+  <dd>$100,000 APPL</dd>
+  <dd>$25,000 MSFT</dd> 
+  <dd>$25,000 AMZN</dd>
+  <dd>$25,000 BRK.A</dd> 
 </dl>
 
 ### Meet The Team ###
