@@ -45,11 +45,16 @@ After consulting with John and all things considered, you are convinced that it 
 ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg) ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg)  ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg)  ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg) 
 
 ## Overview
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
+Below is a pie chart showing the percentage distribution of our $200,000 in each individual asset and a plot of the daily closing prices and the rolling 7 day mean closing prices.
 
 ## Preliminary Analysis
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
+The first step is to pull all the closing prices for each individual security using Alpaca Keys and Yahoo Finance alongside our two benchmarks for measurement, SP500 and Nasdaq. We create a dataframe containing each individual asset including the two benchmarks to prepare comprehensive analysis.
 
+## All Asset Analysis
+The first step is to pull all the closing prices for each individual security using Alpaca Keys and Yahoo Finance alongside our two benchmarks for measurement, SP500 and Nasdaq. We create a dataframe containing each individual asset including the two benchmarks to prepare comprehensive analysis.
 
 ## Our Portfolio
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
+
+## Our Performance Measure
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
