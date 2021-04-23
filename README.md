@@ -59,6 +59,7 @@ The first step is to pull all the closing prices for each individual security us
 **Analysis:** SP500 is the benchmark, least riskiest least volatile while Tesla and Gamestop lead the pack in volatility.
 
 ![All_assets_Daily_RReturns.png](images/All_assets_Daily_RReturns.png)
+![Maximum_portfolio_percent_change.jpg](images/Maximum_portfolio_percent_change.jpg)
 
 **Analysis:** The maximum daily return of our portfolio belongs to Ethereum at +41% on April 01, 2021. The minimum daily return belongs to GameStop at -60% on February 02, 2021
 
