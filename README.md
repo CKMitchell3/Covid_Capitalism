@@ -46,7 +46,7 @@ After consulting with John and all things considered, you are convinced that it 
 
 ## Overview
 Below is a pie chart showing the percentage distribution of our $200,000 in each individual asset and a plot of the daily closing prices and the rolling 7 day mean closing prices.
- ![Portfolio pie distribution.png](images/Portfolio pie distribution.png)
+ ![Portfolio pie distribution_1.jpg](images/Portfolio pie distribution_1.jpg)
  ![Portfolio pie distribution.png](images/Portfolio pie distribution.png)
  ![Portfolio pie distribution.png](images/Portfolio pie distribution.png)
 
