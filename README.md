@@ -56,7 +56,23 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_Volatility.png](images/All_assets_Volatility.png)
 
-<strong>Analysis:</strong> SP500 is the benchmark, least riskiest least volatile while Tesla and Gamestop lead the pack in volatility.
+**Analysis:** SP500 is the benchmark, least riskiest least volatile while Tesla and Gamestop lead the pack in volatility.
+
+![All_assets_Daily_RReturns.png](images/All_assets_Daily_RReturns.png)
+
+**Analysis:** The maximum daily return of our portfolio belongs to Ethereum at +41% on April 01, 2021. The minimum daily return belongs to GameStop at -60% on February 02, 2021
+
+![All_assets_Cumulative_Returns.png](images/All_assets_Cumulative_Returns.png) ![All_assets_average_cumulative_returns.png](images/All_assets_average_cumulative_returns.png)
+
+**Analysis:** Analysis: GameStop, ETHC, BTC, MGM, Tesla, WYNN, AMZN, Boeing and Micrsosoft all had higher average cumulative returns than SP500. GameStop,ETH, BTC, MGM, Tesla, WYNN, AMZN all had higher average cumulative returns than Nasdaq. AAPL has the lowest cumulative returns in our portfolio
+
+![All_assets_Correlation.png](images/All_assets_Correlation.png) ![All_assets_Sharpe.png](images/All_assets_Sharpe.png)
+
+**Analysis:** BTC and ETH have the best return to risk ratios far above SP500 and Nasdaq at 3.76 and 3.39, respectively. AAPL has the lowest sharpe ratio at 0.07, least favorable return to risk.
+
+![All_assets_daily_std.png](images/All_assets_daily_std.png) ![All_assets_rolling7_std.png](images/All_assets_rolling7_std.png)
+
+**Analysis:** Analysis: GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
 
 
 ## All Asset Analysis
