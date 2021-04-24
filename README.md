@@ -42,7 +42,8 @@ After consulting with John and all things considered, you are convinced that it 
 
 
 ## Meet The Team ###
-![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg) ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg)  ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg)  ![fpo_head_shot_small.jpg](images/fpo_head_shot_small.jpg) 
+![head_shots](https://user-images.githubusercontent.com/898144/115945153-5c8a3100-a488-11eb-8db8-fefa8b493527.png)
+
 
 ## Overview
 Below is a pie chart showing the percentage distribution of our $200,000 in each individual asset and a plot of the daily closing prices and the rolling 7 day mean closing prices.
