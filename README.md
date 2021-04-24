@@ -123,7 +123,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
-
+**Analysis:** Analysis: When optimized with less correlation and the dropping of lower sharpe ratios, our returns were astronomical, exponentially greater than our original portfolio.
 
 
 ## Forecasting Analysis
