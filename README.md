@@ -73,7 +73,7 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_daily_std.png](images/All_assets_daily_std.png) ![All_assets_rolling7_std.png](images/All_assets_rolling7_std.png)
 
-**Analysis:** Analysis: GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
+**Analysis:** GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
 
 
 ## All Asset Analysis
