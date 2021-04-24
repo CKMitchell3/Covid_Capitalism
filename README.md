@@ -1,3 +1,7 @@
+
+![coronavirus-u s -economy](https://user-images.githubusercontent.com/898144/115945411-b2aba400-a489-11eb-9810-4cc7a2d49347.jpg)
+
+
 # Covid Capitalism
 ## Welcome
 The Covid-19 Virus sent the world into a global frenzy like never seen before, and perhaps gave birth to the rise of the retail trader. Robinhood made it easy for the average Joe to full blown dive into securities trading, cold turkey. The combination of easy access from apps like Robinhood and the market conditions of the global Coronavirus pandemic created a massive shakedown of the stock market. It is March 09, 2020 and you are anxiously watching the impact of the Covid-19 pandemic unfold into society. 
@@ -173,3 +177,4 @@ The question now remains, can our portfolio sustain at this rate, or should we s
 
 
 ![stock](https://media.giphy.com/media/l0HlDDyxBfSaPpU88/giphy.gif)
+![coronavirus-u s -economy](https://user-images.githubusercontent.com/898144/115945417-b9d2b200-a489-11eb-983f-2d3be82ad7ae.jpg)
