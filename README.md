@@ -79,10 +79,8 @@ The first step is to pull all the closing prices for each individual security us
 
 
 ## Our Portfolio
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
+Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
 
-## Our Performance Measure
-Next, we created a dataframe containing the daily returns of our portfolio, SP500 and Nasdaq to measure our portfolio’s performance against the benchmarks.
 
 ![Performance_daily_returns.png](images/Performance_daily_returns.png)
 ![Performance_cumulative_returns.png](images/Performance_cumulative_returns.png)
