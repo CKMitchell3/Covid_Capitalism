@@ -98,9 +98,15 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![MC_oneyear_sim_plot.png](images/MC_oneyear_sim_plot.png)
 
-**Analysis**: The chart above illustrates that our normal-weighted portfolio returns range between 172.55% and 825.12%. This means that in 1000 tries, over the span of one year’s worth of trading days, our forecasting algorithm predicts that the worst our portfolio can perform is a return of 172.55% on our investment.
+**Analysis:**   The chart above illustrates the returns distributed across a range of 5.56 and 1186.29, with a mean of 108.29 and the 95% of the returns falling within 15.28 and 379.16. The only question left is who’s investing first?
 
-![MC_oneyear_dist_plot.png](images/MC_oneyear_dist_plot.png)
+# Conclusion
+If you failed to take John’s sound advice on March 17, 2020, you quite possibly missed a once in a lifetime opportunity for overnight stock market glory. Our decision to invest $200,000 to creating our portfolio gave us a +381% return on our investment, in just over a year. Our Portfolio is now worth, $762,572.78, with a net profit of $567,572.78. 
 
-**Analysis:** The chart above illustrates the returns distributed across a range of 1.73 and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and 5.93. What this essentially means is the portfolio performed very, very well.
+The question now remains, can our portfolio sustain at this rate, or should we sell and take our half million-dollar profit to the bank? According to our simulations it would be incompetent and outright foolish to sell off.  Over the span of one year’s worth of trading days, our forecasting algorithm predicts that the worst our portfolio can perform is a return of 172.55% on our investment and could reach over 800%. We are treating John to a steak dinner at the Four Seasons hotel, and gifting him a new Rolex Submariner watch, to discuss strategy going forward.
+
+
+
+
+![stock](https://media.giphy.com/media/l0HlDDyxBfSaPpU88/giphy.gif)
 
