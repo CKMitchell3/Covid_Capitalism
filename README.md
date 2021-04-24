@@ -65,7 +65,7 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_Cumulative_Returns.png](images/All_assets_Cumulative_Returns.png) ![All_assets_average_cumulative_returns.png](images/All_assets_average_cumulative_returns.png)
 
-**Analysis:** GameStop, ETH, BTC, MGM, Tesla, WYNN, AMZN, Boeing and Micrsosoft all had higher average cumulative returns than SP500. GameStop,ETH, BTC, MGM, Tesla, WYNN and AMZN all had higher average cumulative returns than Nasdaq. AAPL has the lowest cumulative returns in our portfolio.
+**Analysis:** Analysis: GameStop, ETHC, BTC, MGM, Tesla, WYNN, AMZN, Boeing and Micrsosoft all had higher average cumulative returns than SP500. GameStop,ETH, BTC, MGM, Tesla, WYNN, AMZN all had higher average cumulative returns than Nasdaq. AAPL has the lowest cumulative returns in our portfolio
 
 ![All_assets_Correlation.png](images/All_assets_Correlation.png) ![All_assets_Sharpe.png](images/All_assets_Sharpe.png)
 
@@ -73,14 +73,28 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_daily_std.png](images/All_assets_daily_std.png) ![All_assets_rolling7_std.png](images/All_assets_rolling7_std.png)
 
-**Analysis:** GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
+**Analysis:** Analysis: GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
 
 
-
+## All Asset Analysis
+The first step is to pull all the closing prices for each individual security using Alpaca Keys and Yahoo Finance alongside our two benchmarks for measurement, SP500 and Nasdaq. We create a dataframe containing each individual asset including the two benchmarks to prepare comprehensive analysis.
 
 ## Our Portfolio
 Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
 
+![Our_assets_Daily Returns.png](images/Our_assets_Daily Returns.png)
+
+**Analysis:** Our Portfolio's greatest daily return was on March 24, 2020 at +11.18%, and the lowest daily return was on August 31, 2020 as our portfolio fell -13%.-Chart: 
+
+![Our_assets_cumulative_returns.png](Our_assets_cumulative_returns.png)
+
+**Analysis:** As of April 13, 2021 Our Portfolio is worth $762,572.78. A net profit of $567,572.78 off our investment, and a total return of +381.29%
+
+
+
+
+## Our Performance Measure
+Next, we created a dataframe containing the daily returns of our portfolio, SP500 and Nasdaq to measure our portfolio’s performance against the benchmarks.
 
 ![Performance_daily_returns.png](images/Performance_daily_returns.png)
 ![Performance_cumulative_returns.png](images/Performance_cumulative_returns.png)
@@ -111,6 +125,49 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
+
+
+
+
+## Forecasting Analysis
+
+![MC_oneyear_sim_plot.png](images/MC_oneyear_sim_plot.png)
+
+**Analysis**: The chart above illustrates that our normal-weighted portfolio returnsrange between 172.55% and 825.12%. This means that in 1000 tries, over the spanof one year’s worth of trading days, our forecasting algorithm predicts that theworst your portfolio can perform is a return of 172.55% on your investment.
+
+![MC_oneyear_dist_plot.png](images/MC_oneyear_dist_plot.png)
+
+**Analysis:** The chart above illustrates the returns distributed across a range of 1.73and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and5.93. What this essentially means is the portfolio performed very, very well
+
+
+![MC_oneyear_optimal_sim_plot.png](images/MC_oneyear_optimal_sim_plot.png)
+
+**Analysis:** The chart above illustrates that our optimal-weighted portfolio returnsrange between 157.99% and 5970.47%. This means that in 1000 tries, over thespan of one year’s worth of trading days, our forecasting algorithm predicts that ifyou invest **$10,000** in our optimal-weighted portfolio, in a year’s time you couldhave **$597,047.04**
+
+
+![![MC_oneyear_dist_optimal_plot.png](images/MC_oneyear_dist_optimal_plot.png
+
+**Analysis:** Analysis: The chart above illustrates the returns distributed across a range of **1.57** and **59.70**, with a mean of **10.78** and the **95%** of the returns falling within **2.96** and **29.14** Feel free to draw your own conclusions here
+
+
+![MC_twoyear_sim_plot.png](images/MC_twoyear_sim_plot.png)
+
+**Analysis:**  The chart above illustrates that our normal-weighted portfolio returnsrange between 498.29% and 4256.08%. This means that in 1000 tries, over thespan of two years’ worth of trading days, our forecasting algorithm predicts that theworst your portfolio can perform is a return of 498.29% on your investment.
+
+![MC_twoyear_dist_plot.png](images/MC_twoyear_dist_plot.png)
+
+**Analysis:**  The chart above illustrates the returns distributed across a range of 4.98and 42.56, with a mean of 14.71 and the 95% of the returns falling within 6.86 and26.69. We’ll email a sign-up sheet for our Group 1 Investment Fund following theconclusion of this class.
+
+![MC_twoyear_optimal_sim_plot.png](images/MC_twoyear_optimal_sim_plot.png)
+
+**Analysis:**  The chart above illustrates that our optimal-weighted portfolio returnsrange between 555.64% and 118,628.55%. This means that in 1000 tries, over thespan of two years’ worth of trading days, our forecasting algorithm predicts that ifyou invest $10,000 in our optimal-weighted portfolio, in just two years’ time youcould have a modest $11,862,855
+
+![MC_twoyear_dist_optimal_plot.png](images/MC_twoyear_dist_optimal_plot.png)
+
+**Analysis:**   The chart above illustrates the returns distributed across a range of 5.56and 1186.29, with a mean of 108.29 and the 95% of the returns falling within 15.28and 379.16. The only question left is who’s investing first?
+
+
+
 
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
