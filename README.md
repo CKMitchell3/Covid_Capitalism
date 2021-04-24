@@ -84,7 +84,7 @@ Next, we create a dataframe containing only the individual assets comprising our
 
 ![Our_assets_Daily_Returns.png](images/Our_assets_Daily_Returns.png)
 
-**Analysis:** Our Portfolio's greatest daily return was on March 24, 2020 at +11.18%, and the lowest daily return was on August 31, 2020 as our portfolio fell -13%.-Chart: 
+**Analysis:** Our Portfolio's greatest daily return was on March 24, 2020 at +11.18%, and the lowest daily return was on August 31, 2020 as our portfolio fell -13%. 
 
 ![Our_assets_cumulative_returns.png](images/Our_assets_cumulative_returns.png)
 
