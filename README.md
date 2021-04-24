@@ -171,5 +171,5 @@ The question now remains, can our portfolio sustain at this rate, or should we s
 
 
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-![giphy test](https://media.giphy.com/media/ENQdawo2QTGC90agr0/giphy.gif)
+![stock](https://media.giphy.com/media/l0HlDDyxBfSaPpU88/giphy.gif)
+![bernie](https://media.giphy.com/media/KZvP63ThfOBZXYphit/giphy.gif)
