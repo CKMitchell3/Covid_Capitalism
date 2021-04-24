@@ -41,7 +41,7 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_daily_std.png](images/All_assets_daily_std.png) ![All_assets_rolling7_std.png](images/All_assets_rolling7_std.png)
 
-**Analysis:** Analysis: GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
+**Analysis:** GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
 
 
 
@@ -65,7 +65,7 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 ![Performance_daily_returns.png](images/Performance_daily_returns.png)
 ![Performance_cumulative_returns.png](images/Performance_cumulative_returns.png)
 
-**Analysis:** Our Portfolio Cumulative Returns were greater than both SP500 andNasdaq cumulative returns throughout the entire period.
+**Analysis:** Our Portfolio Cumulative Returns were greater than both SP500 and Nasdaq cumulative returns throughout the entire period.
 
 
 ![Peformance_annualized_std.png](images/Peformance_annualized_std.png)
@@ -79,7 +79,7 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 ![Peformance_Rolling60_beta.png](images/Peformance_Rolling60_beta.png)
 ![Peformance_Rolling120_beta.png](images/Peformance_Rolling120_beta.png)
 
-**Analysis:** The covariance between our portfolio and the SP500 is positive andextremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%.
+**Analysis:** The covariance between our portfolio and the SP500 is positive and extremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%.
 
 
 ![Performance_Annual_Sharpe.png](images/Performance_Annual_Sharpe.png)
@@ -91,7 +91,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
-**Analysis:** When optimized with less correlation and the dropping of lower sharpe ratios, our returns were astronomical, exponentially greater than our original portfolio.
+**Analysis:** When optimized with less correlation and eliminating those with the lowest sharpe ratios, our returns were astronomical, exponentially greater than our original portfolio.
 
 
 ## Forecasting Analysis
