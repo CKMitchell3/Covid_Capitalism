@@ -97,7 +97,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 ## Forecasting Analysis
 
 ![forcasting_chart_1](images/forcasting_chart_1.jpg)
-![forcasting_chart_2](images/forcasting_chart_2.jpg)
+![forcasting_chart_2](images/forcasting_chart_2_update.jpg)
 ![forcasting_chart_3](images/forcasting_chart_3.jpg)
 ![forcasting_chart_4](images/forcasting_chart_4.jpg)
 
