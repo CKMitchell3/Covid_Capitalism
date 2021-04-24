@@ -116,13 +116,12 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 **Analysis:** The covariance between our portfolio and the SP500 is positive andextremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%
 
 
-![Peformance_Rolling120_beta.png](images/Performance_Annual_Sharpe.png)
+![Performance_Annual_Sharpe.png](images/Performance_Annual_Sharpe.png)
 
 **Analysis:** Analysis: Our Portfolio signigcantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
 
 ## Portfolio Optimization
 Next, we measured the returns of our original portfolio versus two optimized versions of our portfolio. In the diversified portfolio, we dropped the two mosthighly correlated assets (MGM, WYNN).  In the diversified and return-to-risk optimized portfolio, we drop the two most highly correlated assets (MGM, WYNN) and also dropped the three lowest sharpe ratio assets ( BA, DAL, AAPL).  The results are shown below.
-
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
