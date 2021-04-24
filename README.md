@@ -46,7 +46,7 @@ The first step is to pull all the closing prices for each individual security us
 
 
 ## Our Portfolio
-Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
+Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the distribution weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
 
 ![Our_assets_Daily_Returns.png](images/Our_assets_Daily_Returns.png)
 
