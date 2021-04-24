@@ -33,7 +33,7 @@ The first step is to pull all the closing prices for each individual security us
 
 ![All_assets_Cumulative_Returns.png](images/All_assets_Cumulative_Returns.png) ![All_assets_average_cumulative_returns.png](images/All_assets_average_cumulative_returns.png)
 
-**Analysis:** Analysis: GameStop, ETHC, BTC, MGM, Tesla, WYNN, AMZN, Boeing and Micrsosoft all had higher average cumulative returns than SP500. GameStop,ETH, BTC, MGM, Tesla, WYNN, AMZN all had higher average cumulative returns than Nasdaq. AAPL has the lowest cumulative returns in our portfolio
+**Analysis:**  GameStop, ETH, BTC, MGM, Tesla, WYNN, AMZN, Boeing and Micrsosoft all had higher average cumulative returns than SP500. GameStop,ETH, BTC, MGM, Tesla, WYNN and AMZN all had higher average cumulative returns than Nasdaq. AAPL has the lowest cumulative returns in our portfolio.
 
 ![All_assets_Correlation.png](images/All_assets_Correlation.png) ![All_assets_Sharpe.png](images/All_assets_Sharpe.png)
 
