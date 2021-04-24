@@ -116,14 +116,14 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 
 ![Performance_Annual_Sharpe.png](images/Performance_Annual_Sharpe.png)
 
-**Analysis:** Analysis: Our Portfolio signigcantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
+**Analysis:** Our Portfolio signigcantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
 
 ## Portfolio Optimization
 Next, we measured the returns of our original portfolio versus two optimized versions of our portfolio. In the diversified portfolio, we dropped the two mosthighly correlated assets (MGM, WYNN).  In the diversified and return-to-risk optimized portfolio, we drop the two most highly correlated assets (MGM, WYNN) and also dropped the three lowest sharpe ratio assets ( BA, DAL, AAPL).  The results are shown below.
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
-**Analysis:** Analysis: When optimized with less correlation and the dropping of lower sharpe ratios, our returns were astronomical, exponentially greater than our original portfolio.
+**Analysis:** When optimized with less correlation and the dropping of lower sharpe ratios, our returns were astronomical, exponentially greater than our original portfolio.
 
 
 ## Forecasting Analysis
