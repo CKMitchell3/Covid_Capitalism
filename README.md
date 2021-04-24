@@ -82,11 +82,11 @@ The first step is to pull all the closing prices for each individual security us
 ## Our Portfolio
 Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
 
-![Our_assets_Daily Returns.png](images/Our_assets_Daily Returns.png)
+![Our_assets_Daily_Returns.png](images/Our_assets_Daily_Returns.png)
 
 **Analysis:** Our Portfolio's greatest daily return was on March 24, 2020 at +11.18%, and the lowest daily return was on August 31, 2020 as our portfolio fell -13%.-Chart: 
 
-![Our_assets_cumulative_returns.png](Our_assets_cumulative_returns.png)
+![Our_assets_cumulative_returns.png](images/Our_assets_cumulative_returns.png)
 
 **Analysis:** As of April 13, 2021 Our Portfolio is worth $762,572.78. A net profit of $567,572.78 off our investment, and a total return of +381.29%
 
