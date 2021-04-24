@@ -106,7 +106,7 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 **Analysis:** Our Portfolio is exponentially riskier than both SP500 and Nasdaq given the volatile nature of our individual investments.
 
 
-![Performance Correlation.png](images/Performance Correlation.png)
+![Performance_Correlation.png](images/Performance_Correlation.png)
 ![Peformance_Rolling30_beta.png](images/Peformance_Rolling30_beta.png)
 ![Peformance_Rolling60_beta.png](images/Peformance_Rolling60_beta.png)
 ![Peformance_Rolling120_beta.png](images/Peformance_Rolling120_beta.png)
