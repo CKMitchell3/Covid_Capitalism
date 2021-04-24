@@ -11,39 +11,7 @@ The stock market crash of 2020 has just begun on Monday, with history’s larges
 After consulting with John and all things considered, you are convinced that it is indeed the ultimate opportunity to capitalize on chaos and decide to invest $200,000 into the stock market and cryptocurrency on March 17, 2020. You decide to invest half of your portfolio in blue chips to mitigate long term risk, and the other half in crypto currency, volatile stocks, pandemic related airline stocks and pandemic related hospitality stocks. You are locked and loaded, eager to see how your investment plays out, and how soon the economy recovers from the initial shock of the Covid-19 scare.
 
 ### Your Portfolio consists of the following:
-
-<dl>
-  <dt>Bluechips Total: $100,000</dt>
-  <dd>$25,000 APPL</dd>
-  <dd>$25,000 MSFT</dd> 
-  <dd>$25,000 AMZN</dd>
-  <dd>$25,000 BRK.A</dd> 
-</dl>
-
-<dl>
-  <dt>Cryptocurrency Total: $25,000</dt>
-  <dd>$12,500 BTC</dd>
-  <dd>$12,500 ETH</dd>
-</dl>
-
-<dl>
-  <dt>Volatile Stocks Total: $25,000</dt>
-  <dd>$12,500 TSLA</dd>
-  <dd>$12,500 GME</dd>
-</dl>
-
-<dl>
-  <dt>Pandemic Crash Airlines Stocks Total: $25,000</dt>
-  <dd>$12,500 BA</dd>
-  <dd>$12,500 DAL</dd>
-</dl>
-
-<dl>
-  <dt>Pandemic Crash Hospitality Stocks Total: $25,000</dt>
-  <dd>$12,500 MGM</dd>
-  <dd>$12,500 WYNN</dd>
-</dl>
-
+![stocks](https://user-images.githubusercontent.com/898144/115946286-2ea7eb00-a48e-11eb-9d80-600fe78b06bc.jpg)
 
 ## Meet The Team ###
 ![head_shots](https://user-images.githubusercontent.com/898144/115945153-5c8a3100-a488-11eb-8db8-fefa8b493527.png)
