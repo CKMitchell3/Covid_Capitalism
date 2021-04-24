@@ -83,8 +83,37 @@ The first step is to pull all the closing prices for each individual security us
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
 
 ## Our Performance Measure
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, porta vel sodales ut, volutpat non felis. Nulla congue massa tincidunt ultricies ultricies. Morbi condimentum ante sed erat finibus placerat. Vestibulum posuere nunc nec tortor tempor rhoncus. Aenean ut erat ante. Integer ultricies libero quis ex aliquet, eu gravida ante facilisis. Curabitur in massa venenatis, tempus est vitae, fringilla sem. Praesent vel dui lacinia, luctus massa fringilla, mattis ligula. Vestibulum tortor elit, ultrices id feugiat eu, tincidunt in nisi.
+Next, we created a dataframe containing the daily returns of our portfolio, SP500 and Nasdaq to measure our portfolio’s performance against the benchmarks.
 
+![Performance_daily_returns.png](images/Performance_daily_returns.png)
+![Performance_cumulative_returns.png](images/Performance_cumulative_returns.png)
+
+**Analysis:** Our Portfolio Cumulative Returns were greater than both SP500 andNasdaq cumulative returns throughout the entire period.
+
+
+![Peformance_annualized_std.png](images/Peformance_annualized_std.png)
+![Performance_rolling21_std.png](images/Performance_rolling21_std.png)
+
+**Analysis:** Our Portfolio is exponentially riskier than both SP500 and Nasdaq given the volatile nature of our individual investments.
+
+
+![Performance Correlation.png](images/Performance Correlation.png)
+![Peformance_Rolling30_beta.png](images/Peformance_Rolling30_beta.png)
+![Peformance_Rolling60_beta.png](images/Peformance_Rolling60_beta.png)
+![Peformance_Rolling120_beta.png](images/Peformance_Rolling120_beta.png)
+
+**Analysis:** The covariance between our portfolio and the SP500 is positive andextremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%
+
+
+![Peformance_Rolling120_beta.png](images/Performance_Annual_Sharpe.png)
+
+**Analysis:** Analysis: Our Portfolio signigcantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
+
+## Portfolio Optimization
+Next, we measured the returns of our original portfolio versus two optimized versions of our portfolio. In the diversified portfolio, we dropped the two mosthighly correlated assets (MGM, WYNN).  In the diversified and return-to-risk optimized portfolio, we drop the two most highly correlated assets (MGM, WYNN) and also dropped the three lowest sharpe ratio assets ( BA, DAL, AAPL).  The results are shown below.
+
+
+![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
