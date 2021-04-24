@@ -134,34 +134,34 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![MC_oneyear_dist_plot.png](images/MC_oneyear_dist_plot.png)
 
-**Analysis:** The chart above illustrates the returns distributed across a range of 1.73and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and5.93. What this essentially means is the portfolio performed very, very well
+**Analysis:** The chart above illustrates the returns distributed across a range of 1.73 and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and 5.93. What this essentially means is the portfolio performed very, very well
 
 
 ![MC_oneyear_optimal_sim_plot.png](images/MC_oneyear_optimal_sim_plot.png)
 
-**Analysis:** The chart above illustrates that our optimal-weighted portfolio returnsrange between 157.99% and 5970.47%. This means that in 1000 tries, over thespan of one year’s worth of trading days, our forecasting algorithm predicts that ifyou invest **$10,000** in our optimal-weighted portfolio, in a year’s time you couldhave **$597,047.04**
+**Analysis:** The chart above illustrates that our optimal-weighted portfolio returns range between 157.99% and 5970.47%. This means that in 1000 tries, over the span of one year’s worth of trading days, our forecasting algorithm predicts that if you invest **$10,000** in our optimal-weighted portfolio, in a year’s time you could have **$597,047.04**
 
 
 ![![MC_oneyear_dist_optimal_plot.png](images/MC_oneyear_dist_optimal_plot.png
 
-**Analysis:** Analysis: The chart above illustrates the returns distributed across a range of **1.57** and **59.70**, with a mean of **10.78** and the **95%** of the returns falling within **2.96** and **29.14** Feel free to draw your own conclusions here
+**Analysis:** Analysis: The chart above illustrates the returns distributed across a range of **1.57** and **59.70**, with a mean of **10.78** and the **95%** of the returns falling within **2.96** and **29.14** Feel free to draw your own conclusions here.
 
 
 ![MC_twoyear_sim_plot.png](images/MC_twoyear_sim_plot.png)
 
-**Analysis:**  The chart above illustrates that our normal-weighted portfolio returnsrange between 498.29% and 4256.08%. This means that in 1000 tries, over thespan of two years’ worth of trading days, our forecasting algorithm predicts that theworst your portfolio can perform is a return of 498.29% on your investment.
+**Analysis:**  The chart above illustrates that our normal-weighted portfolio returns range between 498.29% and 4256.08%. This means that in 1000 tries, over the span of two years’ worth of trading days, our forecasting algorithm predicts that the worst your portfolio can perform is a return of 498.29% on your investment.
 
 ![MC_twoyear_dist_plot.png](images/MC_twoyear_dist_plot.png)
 
-**Analysis:**  The chart above illustrates the returns distributed across a range of 4.98and 42.56, with a mean of 14.71 and the 95% of the returns falling within 6.86 and26.69. We’ll email a sign-up sheet for our Group 1 Investment Fund following theconclusion of this class.
+**Analysis:**  The chart above illustrates the returns distributed across a range of 4.98and 42.56, with a mean of 14.71 and the 95% of the returns falling within 6.86 and 26.69. We’ll email a sign-up sheet for our Group 1 Investment Fund following the conclusion of this class.
 
 ![MC_twoyear_optimal_sim_plot.png](images/MC_twoyear_optimal_sim_plot.png)
 
-**Analysis:**  The chart above illustrates that our optimal-weighted portfolio returnsrange between 555.64% and 118,628.55%. This means that in 1000 tries, over thespan of two years’ worth of trading days, our forecasting algorithm predicts that ifyou invest $10,000 in our optimal-weighted portfolio, in just two years’ time youcould have a modest $11,862,855
+**Analysis:**  The chart above illustrates that our optimal-weighted portfolio returns range between 555.64% and 118,628.55%. This means that in 1000 tries, over the span of two years’ worth of trading days, our forecasting algorithm predicts that if you invest $10,000 in our optimal-weighted portfolio, in just two years’ time you could have a modest $11,862,855.
 
 ![MC_twoyear_dist_optimal_plot.png](images/MC_twoyear_dist_optimal_plot.png)
 
-**Analysis:**   The chart above illustrates the returns distributed across a range of 5.56and 1186.29, with a mean of 108.29 and the 95% of the returns falling within 15.28and 379.16. The only question left is who’s investing first?
+**Analysis:**   The chart above illustrates the returns distributed across a range of 5.56 and 1186.29, with a mean of 108.29 and the 95% of the returns falling within 15.28 and 379.16. The only question left is who’s investing first?
 
 
 
