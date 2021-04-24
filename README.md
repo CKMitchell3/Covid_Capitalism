@@ -130,7 +130,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![MC_oneyear_sim_plot.png](images/MC_oneyear_sim_plot.png)
 
-**Analysis**: The chart above illustrates that our normal-weighted portfolio returnsrange between 172.55% and 825.12%. This means that in 1000 tries, over the spanof one year’s worth of trading days, our forecasting algorithm predicts that theworst your portfolio can perform is a return of 172.55% on your investment.
+**Analysis**: The chart above illustrates that our normal-weighted portfolio returns range between 172.55% and 825.12%. This means that in 1000 tries, over the span of one year’s worth of trading days, our forecasting algorithm predicts that the worst our portfolio can perform is a return of 172.55% on our investment.
 
 ![MC_oneyear_dist_plot.png](images/MC_oneyear_dist_plot.png)
 
