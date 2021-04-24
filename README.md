@@ -76,8 +76,6 @@ The first step is to pull all the closing prices for each individual security us
 **Analysis:** Analysis: GameStop has the higest standard deviation, most risk. BRK.A has the lowest std and is the least riskiest of our investments. All of our assets are riskier than the SP500.
 
 
-## All Asset Analysis
-The first step is to pull all the closing prices for each individual security using Alpaca Keys and Yahoo Finance alongside our two benchmarks for measurement, SP500 and Nasdaq. We create a dataframe containing each individual asset including the two benchmarks to prepare comprehensive analysis.
 
 ## Our Portfolio
 Next, we create a dataframe containing only the individual assets comprising our portfolio, and assign the weights to calculate the daily returns, cumulative returns and cumulative profit of our portfolio as a whole.
