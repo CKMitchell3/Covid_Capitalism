@@ -177,4 +177,3 @@ The question now remains, can our portfolio sustain at this rate, or should we s
 
 
 ![stock](https://media.giphy.com/media/l0HlDDyxBfSaPpU88/giphy.gif)
-![coronavirus-u s -economy](https://user-images.githubusercontent.com/898144/115945417-b9d2b200-a489-11eb-983f-2d3be82ad7ae.jpg)
