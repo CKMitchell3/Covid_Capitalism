@@ -106,7 +106,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![MC_oneyear_optimal_sim_plot.png](images/MC_oneyear_optimal_sim_plot.png)
 
-**Analysis:**    The chart above illustrates that our optimal-weighted portfolio returns range between 157.99% and 5970.47%. This means that in 1000 tries, over thes pan of one year’s worth of trading days, our forecasting algorithm predicts that if you invest $10,000 in our optimal-weighted portfolio, in a year’s time you could have $597,047.04.
+**Analysis:**    The chart above illustrates that our optimal-weighted portfolio returns range between 157.99% and 5970.47%. This means that in 1000 tries, over the span of one year’s worth of trading days, our forecasting algorithm predicts that if you invest $10,000 in our optimal-weighted portfolio, in a year’s time you could have $597,047.04.
 
 ![MC_oneyear_dist_optimal_plot.png](images/MC_oneyear_dist_optimal_plot.png)
 
