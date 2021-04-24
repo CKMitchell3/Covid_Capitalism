@@ -61,7 +61,7 @@ The first step is to pull all the closing prices for each individual security us
 ![All_assets_Daily_RReturns.png](images/All_assets_Daily_RReturns.png)
 ![Maximum_portfolio_percent_change.jpg](images/Maximum_portfolio_percent_change.jpg)
 
-**Analysis:** The maximum daily return of our portfolio belongs to Ethereum at +41% on April 01, 2021. The minimum daily return belongs to GameStop at -60% on February 02, 2021
+**Analysis:** The maximum daily return of our portfolio belongs to Gamestop at +136% on January 27, 2021. The minimum daily return also belongs to GameStop at -60% on February 02, 2021. This summarizes the volatility value of Gamestop referenced above.
 
 ![All_assets_Cumulative_Returns.png](images/All_assets_Cumulative_Returns.png) ![All_assets_average_cumulative_returns.png](images/All_assets_average_cumulative_returns.png)
 
