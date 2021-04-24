@@ -19,7 +19,7 @@ After consulting with John and all things considered, you are convinced that it 
 ## Overview
 ![overview_chart](images/overview_chart.jpg)
 
-## Preliminary Analysis
+## Preliminary Analysis!
 The first step is to pull all the closing prices for each individual security using Alpaca Keys and Yahoo Finance alongside our two benchmarks for measurement, SP500 and Nasdaq. We create a dataframe containing each individual asset including the two benchmarks to prepare comprehensive analysis.
 
 ![All_assets_Volatility.png](images/All_assets_Volatility.png)
@@ -95,6 +95,9 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 
 ## Forecasting Analysis
+
+![forcasting_chart](images/forcasting_chart.jpg)
+
 
 ![MC_oneyear_sim_plot.png](images/MC_oneyear_sim_plot.png)
 
