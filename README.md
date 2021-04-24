@@ -111,15 +111,15 @@ Next, we created a dataframe containing the daily returns of our portfolio, SP50
 ![Peformance_Rolling60_beta.png](images/Peformance_Rolling60_beta.png)
 ![Peformance_Rolling120_beta.png](images/Peformance_Rolling120_beta.png)
 
-**Analysis:** The covariance between our portfolio and the SP500 is positive andextremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%
+**Analysis:** The covariance between our portfolio and the SP500 is positive andextremely low which means that there is a weak positive relationship between the two. The variance between our portfolio and the SP500 is positive and extremely low also which means that there is low correlation between securities in our portfolio. With a beta value of 1.14, our portfolio is slightly more volatile than the market, approximately 14%.
 
 
 ![Performance_Annual_Sharpe.png](images/Performance_Annual_Sharpe.png)
 
-**Analysis:** Our Portfolio signigcantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
+**Analysis:** Our Portfolio signigficantly Outperformed the Nasdaq which slightly outperformed the SP500. Sharpe ratio of 3.4 is considered excellent and a farabove average risk to return ratio.
 
 ## Portfolio Optimization
-Next, we measured the returns of our original portfolio versus two optimized versions of our portfolio. In the diversified portfolio, we dropped the two mosthighly correlated assets (MGM, WYNN).  In the diversified and return-to-risk optimized portfolio, we drop the two most highly correlated assets (MGM, WYNN) and also dropped the three lowest sharpe ratio assets ( BA, DAL, AAPL).  The results are shown below.
+Next, we measured the returns of our original portfolio versus two optimized versions of our portfolio. In the diversified portfolio, we dropped the two most highly correlated assets (MGM, WYNN).  In the diversified and return-to-risk optimized portfolio, we drop the two most highly correlated assets (MGM, WYNN) and also dropped the three lowest sharpe ratio assets ( BA, DAL, AAPL).  The results are shown below.
 
 ![Overlay_Hypothetical.png](images/Overlay_Hypothetical.png)
 
@@ -134,7 +134,7 @@ Next, we measured the returns of our original portfolio versus two optimized ver
 
 ![MC_oneyear_dist_plot.png](images/MC_oneyear_dist_plot.png)
 
-**Analysis:** The chart above illustrates the returns distributed across a range of 1.73 and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and 5.93. What this essentially means is the portfolio performed very, very well
+**Analysis:** The chart above illustrates the returns distributed across a range of 1.73 and 8.25, with a mean of 3.84 and the 95% of the returns falling within 2.26 and 5.93. What this essentially means is the portfolio performed very, very well.
 
 
 ![MC_oneyear_optimal_sim_plot.png](images/MC_oneyear_optimal_sim_plot.png)
